@@ -1,0 +1,152 @@
+body {
+    margin:0;
+    background-color: #1F2937;
+    color: #E5E7EB;
+    font-family: 'Roboto', arial;
+}
+.header {
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+}
+.logo {
+    margin-left: 30px;
+    height: 150px;
+    width: auto;
+}
+.links {
+    display: flex;
+    flex-direction: row;
+    margin-left: auto;
+    margin-right: 30px
+}
+.link {
+    flex: 1;
+    padding: 30px
+}
+.first {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 60px
+}
+.introduction {
+    flex-basis: 500px;
+    margin: 30px;
+    display: flex;
+    flex-direction: column
+}
+.title {
+    font-size: 48px;
+    font-weight: 800;
+    color: #F9FAF8;
+}
+.summary {
+    font-size: 18px;
+    color: #E5E7EB;
+    padding-bottom: 10px
+}
+.sign_up {
+    padding: 5px;
+    text-align: center;
+    border-radius: 5px;
+    width: 75px;
+    background-color: #3882F6
+}
+.picture {
+    width: auto;
+    height: 400px;
+}
+.second {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    flex-direction: column;
+    color: black;
+    padding: 30px
+}
+.team {
+    max-width: 1000px;
+    justify-content: center;
+    display: flex;
+}
+.member {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 30px
+}
+.portrait {
+    width: auto;
+    height: 400px;
+    border-radius: 15px
+}
+.name {
+    font-size: 30px;
+    margin: 20px;
+    color: black;
+}
+.bio {
+
+}
+.third {
+    Background-color: #E5E7EB;
+    margin-top: -30px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-bottom: 30px
+}
+.quote {
+    color:black;
+    font-style: italic;
+    font-weight: 300
+}
+.quote_by {
+    color:black;
+}
+.fourth{
+    background-color: white;
+    padding: 0px;
+    display: flex;
+    justify-content: center
+}
+.sign-up {
+    max-width: 600px;
+    flex: 1;
+    background-color: #3882F6;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    margin: 60px;
+    padding:30px;
+    border-radius: 5px
+}
+.sign-up1 {
+    flex-basis: 500px;
+    display: flex;
+    flex-direction: column;
+}
+.sign-up11{
+    font-size: 17px;
+    font-weight: bold;
+    flex: 1
+}
+.sign-up2 {
+    flex:1;
+    border: 2px solid white;
+    padding: 5px;
+    text-align: center;
+    border-radius: 5px;
+    width: 75px;
+}
+.fifth {
+    display: flex;
+    justify-content: center;
+}
+.copyright {
+    flex: 1;
+    margin: 50px
+}
